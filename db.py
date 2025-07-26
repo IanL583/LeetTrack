@@ -1,7 +1,7 @@
 import sqlite3
 from sqlite3 import Error
 
-db_name = "LeeeTrack.db"
+db_name = "LeetTrack.db"
 
 def create_connection():
     connection = None

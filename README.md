@@ -1,2 +1,2 @@
-# LeetTrack
-A python application which tracks LeetCode problems using a database!
+# 🧠 LeetTrack: A Personal LeetCode Problem Tracker
+LeetTrack is a personal command-line Python application that helps you track, organise, and revise on your LeetCode problem-solving journey. It's designed for personal use and is simple, fast, and requires no web interface, as all your progress is stored locally in a SQLite database.
