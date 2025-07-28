@@ -1,6 +1,6 @@
 # 🧠 LeetTrack - LeetCode Progress Tracker
 
-LeetTrack is a personal fullstack web application that helps you track your LeetCode problem-solving journey. It allows you to log problems, monitor your progress, record attempt history, and gain insights through problem statistics all in a minimalistic user interface.
+LeetTrack is a personal fullstack web application that helps you track your LeetCode problem-solving journey. It allows you to log problems, monitor your progress, record attempt history, and gain insights on problem statistics through a minimalistic user interface.
 
 ## 🚀 Purpose and Features
 
